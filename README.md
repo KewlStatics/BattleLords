@@ -1,2 +1,2 @@
 # BattleLords
-Codes For Battle Lords Server
+Codes For Battle Lords Server still being updated
