@@ -25,10 +25,10 @@ Wanna Run The Server? Check Details [Here](https://github.com/Zarel/Pokemon-Show
 
 ## Maintainers
 
-This boilerplate is brought to you and maintained by the following people:
+This File is brought to you and maintained by
 
 [![Paul71](https://avatars3.githubusercontent.com/u/18008891?v=3&u=cf3b0201698fb10757eb1c9316de5f909ac76fbb&s=140)](https://github.com/KewlStatics) 
-:---:|:---:|:---:|:---:|:---:
+
 [Paul71](https://github.com/KewlStatics)
 
 ## Special thanks
